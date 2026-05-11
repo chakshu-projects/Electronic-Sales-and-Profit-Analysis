@@ -1,6 +1,7 @@
 
-
-
+## Dashboard Overview  
+<img width="1341" height="745" alt="Screenshot 2026-05-11 135941" src="https://github.com/user-attachments/assets/74ec635e-2c00-4215-9bc9-303b5705f4fe" />
+<img width="1310" height="741" alt="Screenshot 2026-05-11 134938" src="https://github.com/user-attachments/assets/23dd9a50-7f2f-45c3-adf0-9768c80788ae" />
 
 # Electronic-Sales-and-Profit-Analysis
 
@@ -45,5 +46,5 @@
 ## Key Insights  
    - The month July has highest Sales and Profit
    - West Region contributed highest Revenue
-   - SSD 256GB is the top-Selling and Profitable Product
-   - The year 2020 has the Sales and Profit  
+   - SSD 256GB is the most Profitable Product
+   - The year 2020 has the Highest Sales and Profit  
